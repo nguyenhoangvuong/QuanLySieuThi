@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Form1.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Forms.Form_Home.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\bin\Debug\BunifuDataViz 1.0.1.dll
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.UserControls.UC_TrangChu.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CopyComplete
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.UserControls.UC_BanHang.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Forms.Form_HoanThanhOrder.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Forms.Form_ThemMoiSanPham.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.UserControls.UC_ChiTietMuaHang.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Forms.Form_ThemMoiDVT.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Forms.Form_ThemNSX.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.UserControls.Uc_NguoiDung.resources
+C:\Users\Admin\source\repos\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.UserControls.UC_ThongKe.resources

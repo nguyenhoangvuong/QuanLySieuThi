@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace QuanLySieuThi.Forms
+{
+    public partial class Form_ThemMoiSanPham : Form
+    {
+        public Form_ThemMoiSanPham()
+        {
+            InitializeComponent();
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
+        }
+
+        private void btnThemDVT_Click(object sender, EventArgs e)
+        {
+            using(Form_ThemMoiDVT tdvt = new Form_ThemMoiDVT())
+            {
+                tdvt.ShowDialog();
+            }
+        }
+    }
+}
